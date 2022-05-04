@@ -1,3 +1,5 @@
+<p align="center"> <b>¤ Languages ¤</b> </p>
+
 <!--
 ### Hi there 👋
 
