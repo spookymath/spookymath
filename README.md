@@ -1,5 +1,6 @@
 <p align="center"> <b>¤ Languages ¤</b> </p>
 <p align="center"> <b>¤ Competitive Programming ¤</b> </p>
+<p align="center"> <b>¤ Socials ¤</b> </p>
 
 <!--
 ### Hi there 👋
