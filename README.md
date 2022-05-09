@@ -1,6 +1,7 @@
 <p align="center"> <b>¤ Languages ¤</b> </p>
 <p align="center">
   <img height="26px" src="lang/lang-rust.svg">
+  <img height="26px" src="lang/lang-javascript.svg">
 </p>
 <!--
   <img height="26px" src="lang/lang-javascript.svg">
