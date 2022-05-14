@@ -5,11 +5,9 @@
   <img height="26px" src="lang/lang-cpp.svg">
   <img height="26px" src="lang/lang-haskell.svg">
   <img height="26px" src="lang/lang-typescript.svg">
-</p>
-<!--
   <img height="26px" src="lang/lang-golang.svg">
 </p>
--->
+
 <p align="center"> <b>¤ Competitive Programming ¤</b> </p>
 <p align="center"> <b>¤ Socials ¤</b> </p>
 
