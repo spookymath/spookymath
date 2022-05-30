@@ -16,7 +16,7 @@
 <!--
   <img height="26px" src="lang/lang-erlang.svg">
   <img height="26px" src="lang/lang-perl.svg">
-
+  <img height="26px" src="lang/lang-matlab.svg">
   <img height="26px" src="lang/lang-scala.svg">
   <img height="26px" src="lang/lang-r.svg">
   <img height="26px" src="lang/lang-swift.svg">
