@@ -8,12 +8,11 @@
   <img height="26px" src="lang/lang-typescript.svg">
   <img height="26px" src="lang/lang-golang.svg">
 </p>
-
+<!--
 <p align="center"> <b>¤ Learning ¤</b> </p>
 <p align="center">
   <img height="26px" src="lang/lang-csharp.svg">
 </p>
-<!--
   <img height="26px" src="lang/lang-erlang.svg">
   <img height="26px" src="lang/lang-perl.svg">
   <img height="26px" src="lang/lang-matlab.svg">
