@@ -29,6 +29,24 @@
   <img height="26px" src="lang/lang-fsharp.svg">
 -->
 <p align="center"> <b>¤ Competitive Programming ¤</b> </p>
+<!--
+  <img height="26px" src="cp/cp-leetcode.svg">
+  <img height="26px" src="lang/lang-erlang.svg">
+  <img height="26px" src="lang/lang-perl.svg">
+  <img height="26px" src="lang/lang-matlab.svg">
+  <img height="26px" src="lang/lang-scala.svg">
+  <img height="26px" src="lang/lang-r.svg">
+  <img height="26px" src="lang/lang-swift.svg">
+  <img height="26px" src="lang/lang-dart.svg">
+  <img height="26px" src="lang/lang-kotlin.svg">
+  <img height="26px" src="lang/lang-julia.svg">
+  <img height="26px" src="lang/lang-java.svg">
+  <img height="26px" src="lang/lang-elm.svg">
+  <img height="26px" src="lang/lang-clojure.svg">
+  <img height="26px" src="lang/lang-elixir.svg">
+  <img height="26px" src="lang/lang-fsharp.svg">
+-->
+
 <p align="center"> <b>¤ Socials ¤</b> </p>
 
 <!--
