@@ -44,7 +44,7 @@
   <img height="26px" src="lang/lang-elm.svg">
   <img height="26px" src="lang/lang-clojure.svg">
   <img height="26px" src="lang/lang-elixir.svg">
-  <img height="26px" src="lang/lang-fsharp.svg">
+  <img height="26px" src="cp/cp-binarysearch.svg">
 -->
 
 <p align="center"> <b>¤ Socials ¤</b> </p>
