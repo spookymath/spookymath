@@ -31,7 +31,7 @@
 <p align="center"> <b>¤ Competitive Programming ¤</b> </p>
 <!--
   <img height="26px" src="cp/cp-leetcode.svg">
-  <img height="26px" src="lang/lang-erlang.svg">
+  <img height="26px" src="cp/cp-codeforces.svg">
   <img height="26px" src="lang/lang-perl.svg">
   <img height="26px" src="lang/lang-matlab.svg">
   <img height="26px" src="lang/lang-scala.svg">
