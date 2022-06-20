@@ -32,7 +32,7 @@
 <!--
   <img height="26px" src="cp/cp-leetcode.svg">
   <img height="26px" src="cp/cp-codeforces.svg">
-  <img height="26px" src="lang/lang-perl.svg">
+  <img height="26px" src="cp/cp-atcoder.svg">
   <img height="26px" src="lang/lang-matlab.svg">
   <img height="26px" src="lang/lang-scala.svg">
   <img height="26px" src="lang/lang-r.svg">
