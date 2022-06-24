@@ -41,7 +41,7 @@
   <img height="26px" src="lang/lang-kotlin.svg">
   <img height="26px" src="lang/lang-julia.svg">
   <img height="26px" src="lang/lang-java.svg">
-  <img height="26px" src="lang/lang-elm.svg">
+  <img height="26px" src="cp/cp-geeksforgeeks.svg">
   <img height="26px" src="cp/cp-topcoder.svg">
   <img height="26px" src="cp/cp-codechef.svg">
   <img height="26px" src="cp/cp-binarysearch.svg">
