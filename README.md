@@ -35,11 +35,6 @@
   <img height="26px" src="cp/cp-atcoder.svg">
   <img height="26px" src="cp/cp-projecteuler.svg">
   <img height="26px" src="cp/cp-kattisOJ.svg">
-  <img height="26px" src="lang/lang-r.svg">
-  <img height="26px" src="lang/lang-swift.svg">
-  <img height="26px" src="lang/lang-dart.svg">
-  <img height="26px" src="lang/lang-kotlin.svg">
-  <img height="26px" src="lang/lang-julia.svg">
   <img height="26px" src="cp/cp-sphereOJ.svg">
   <img height="26px" src="cp/cp-geeksforgeeks.svg">
   <img height="26px" src="cp/cp-topcoder.svg">
