@@ -44,6 +44,10 @@
 
 <p align="center"> <b>¤ Socials ¤</b> </p>
 
+<p align="center">
+  <img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+</p>
+
 <!--
 ### Hi there 👋
 
@@ -60,6 +64,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-</p>
