@@ -43,6 +43,19 @@
 -->
 
 <p align="center"> <b>¤ Socials ¤</b> </p>
+<!--
+  <img height="26px" src="soc/soc-youtube.svg">
+  <img height="26px" src="cp/cp-codeforces.svg">
+  <img height="26px" src="cp/cp-atcoder.svg">
+  <img height="26px" src="cp/cp-projecteuler.svg">
+  <img height="26px" src="cp/cp-kattisOJ.svg">
+  <img height="26px" src="cp/cp-sphereOJ.svg">
+  <img height="26px" src="cp/cp-geeksforgeeks.svg">
+  <img height="26px" src="cp/cp-topcoder.svg">
+  <img height="26px" src="cp/cp-codechef.svg">
+  <img height="26px" src="cp/cp-binarysearch.svg">
+-->
+
 
 <p align="center">
   <img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
