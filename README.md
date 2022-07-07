@@ -53,7 +53,7 @@
   <img height="26px" src="cp/cp-geeksforgeeks.svg">
   <img height="26px" src="cp/cp-topcoder.svg">
   <img height="26px" src="cp/cp-codechef.svg">
-  <img height="26px" src="cp/cp-binarysearch.svg">
+  <img height="26px" src="soc/soc-twitch.svg">
 -->
 
 
