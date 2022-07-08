@@ -45,7 +45,7 @@
 <p align="center"> <b>¤ Socials ¤</b> </p>
 <!--
   <img height="26px" src="soc/soc-youtube.svg">
-  <img height="26px" src="cp/cp-codeforces.svg">
+  <img height="26px" src="soc/kaggle.svg">
   <img height="26px" src="cp/cp-atcoder.svg">
   <img height="26px" src="cp/cp-projecteuler.svg">
   <img height="26px" src="cp/cp-kattisOJ.svg">
