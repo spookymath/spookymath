@@ -52,7 +52,7 @@
   <img height="26px" src="cp/cp-sphereOJ.svg">
   <img height="26px" src="cp/cp-geeksforgeeks.svg">
   <img height="26px" src="cp/cp-topcoder.svg">
-  <img height="26px" src="cp/cp-medium.svg">
+  <img height="26px" src="soc/soc-medium.svg">
   <img height="26px" src="soc/soc-twitch.svg">
 -->
 
