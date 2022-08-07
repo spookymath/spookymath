@@ -43,6 +43,10 @@
 -->
 
 <p align="center"> <b>¤ Socials ¤</b> </p>
+<p align="center">
+  <img height="26px" src="soc/soc-playstation.svg">
+  <img height="26px" src="soc/soc-xbox.svg">
+</p>
 <!--
   <img height="26px" src="soc/soc-youtube.svg">
   <img height="26px" src="soc/soc-kaggle.svg">
