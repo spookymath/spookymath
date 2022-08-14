@@ -51,9 +51,9 @@
   <img height="26px" src="soc/soc-youtube.svg">
   <img height="26px" src="soc/soc-kaggle.svg">
   <img height="26px" src="soc/soc-xbox.svg">
-  <img height="26px" src="soc/soc-xbox.svg">
+  <img height="26px" src="soc/soc-.svg">
   <img height="26px" src="soc/soc-lichess.svg">
-  <img height="26px" src="soc/soc-xbox.svg">
+  <img height="26px" src="soc/soc-.svg">
   <img height="26px" src="soc/soc-playstation.svg">
   <img height="26px" src="soc/soc-medium.svg">
   <img height="26px" src="soc/soc-twitch.svg">
