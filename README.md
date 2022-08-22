@@ -29,6 +29,7 @@
   <img height="26px" src="lang/lang-fsharp.svg">
 -->
 <p align="center"> <b>¤ Competitive Programming ¤</b> </p>
+<p align="center">
   <img height="26px" src="cp/cp-leetcode.svg">
   <img height="26px" src="cp/cp-codeforces.svg">
   <img height="26px" src="cp/cp-atcoder.svg">
@@ -39,6 +40,7 @@
   <img height="26px" src="cp/cp-topcoder.svg">
   <img height="26px" src="cp/cp-codechef.svg">
   <img height="26px" src="cp/cp-binarysearch.svg">
+</p>
 
 <p align="center"> <b>¤ Socials ¤</b> </p>
 <p align="center">
