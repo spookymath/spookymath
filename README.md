@@ -35,6 +35,8 @@
   <img height="26px" src="cp/cp-atcoder.svg">
   <img height="26px" src="cp/cp-projecteuler.svg">
   <img height="26px" src="cp/cp-kattisOJ.svg">
+  <img height="26px" src="cp/cp-hackerrank.svg">
+  <img height="26px" src="cp/cp-codingninjas.svg">
   <img height="26px" src="cp/cp-sphereOJ.svg">
   <img height="26px" src="cp/cp-geeksforgeeks.svg">
   <img height="26px" src="cp/cp-topcoder.svg">
