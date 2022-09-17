@@ -44,6 +44,15 @@
   <img height="26px" src="cp/cp-binarysearch.svg">
 </p>
 
+<p align="center"> <b>¤ Organizations ¤</b> </p>
+<!--
+<p align="center">
+  <img height="26px" src="org/org-huawei.svg">
+  <img height="26px" src="org/org-lboro.svg">
+  <img height="26px" src="org/org-commscope.svg">
+</p>
+-->
+
 <p align="center"> <b>¤ Socials ¤</b> </p>
 <p align="center">
   <img height="26px" src="soc/soc-playstation.svg">
