@@ -32,21 +32,24 @@
 <br>
 • 6-star Rated **~(2400+)** on [Codechef](https://www.codechef.com/users/smartstudsai/)
 <br>
-• Competitions Master on [Kaggle](https://www.kaggle.com/smartstudsai/)
-<br>
 • Guardian Rated **~(2400+)** on [Leetcode](https://leetcode.com/smartstudsai/)
 <br>
-• 4-Dan / Orange Rated **~(2600+)** on [Atcoder](https://atcoder.jp/users/smartstudsai/)
-<br>
 • Red Rated **~(2200+)** on [Topcoder]( https://www.topcoder.com/members/smartstudsai/) 
-
+<br>
+• 4-Dan / Orange Rated **~(2600+)** on [Atcoder](https://atcoder.jp/users/smartstudsai/)
+    
 **Chess** <br>
 • **~(2100+)** on [Chess.com]( https://www.topcoder.com/members/smartstudsai/)
 <br>
 • **~(2100+)** on [Lichess]( https://www.topcoder.com/members/smartstudsai/) 
 <br>
 
-   </td>
+**Other Links** <br>
+<p align="center">
+<img height="25px" src="medium.svg"> <img height="25px" src="stackoverflow"> <img height="25px" src="hackerrank"> <img height="25px" src="transcripts"> <img height="25px" src="website"> <img height="25px" src="cv"> <img height="25px" src="hackerearth"> <img height="25px" src="stackexchange"> <img height="25px" src="youtube.svg"> 
+ </p>
+ 
+  </td>
   
   
  </tr>
