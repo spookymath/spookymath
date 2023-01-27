@@ -24,9 +24,10 @@
 • Game Data Miner at [Unite-DB](https://unite-db.com/) and [OP.gg](https://www.op.gg/)
      
    <td>
- 
-• **~(2100+)** on [Chess.com]( https://www.topcoder.com/members/smartstudsai/)
-<br>
+
+• Competitions Master on [Kaggle](https://www.kaggle.com/smartstudsai/)
+
+**Competitive Programming** <br>
 • International Master **~(2300+)** on [Codeforces](https://codeforces.com/profile/smartstudsai/)
 <br>
 • 6-star Rated **~(2400+)** on [Codechef](https://www.codechef.com/users/smartstudsai/)
@@ -38,6 +39,9 @@
 • 4-Dan / Orange Rated **~(2600+)** on [Atcoder](https://atcoder.jp/users/smartstudsai/)
 <br>
 • Red Rated **~(2200+)** on [Topcoder]( https://www.topcoder.com/members/smartstudsai/) 
+
+**Chess** <br>
+• **~(2100+)** on [Chess.com]( https://www.topcoder.com/members/smartstudsai/)
 <br>
 • **~(2100+)** on [Lichess]( https://www.topcoder.com/members/smartstudsai/) 
 <br>
