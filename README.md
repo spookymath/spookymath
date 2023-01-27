@@ -1,4 +1,4 @@
-<table border="0" width="50px">
+<table border="0" style="width:100%">
  <tr>
     <td>
 
@@ -29,9 +29,11 @@
 <br>
 • 6-star Rated **~(2400+)** on [Codechef](https://www.codechef.com/users/smartstudsai/)
 <br>
-• 4-Dan / Orange Rated **~(2300+)** on [Atcoder](https://atcoder.jp/users/smartstudsai/)
+• 4-Dan / Orange Rated **~(2600+)** on [Atcoder](https://atcoder.jp/users/smartstudsai/)
 <br>
-• 6-star Rated **~(2400+)** on [Codechef](https://www.codechef.com/users/smartstudsai/)
+• Guardian Rated **~(2400+)** on [Leetcode](https://leetcode.com/smartstudsai/)
+<br>
+• Competitions Master on [Kaggle](https://www.kaggle.com/smartstudsai/)
 
 <p align="center"> <b>¤ Languages ¤</b> </p>
 <p align="center">
