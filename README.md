@@ -24,6 +24,14 @@
 • Game Data Miner at [Unite-DB](https://unite-db.com/) and [OP.gg](https://www.op.gg/)
     
    <td>
+    
+• International Master **~(2300+)** on [Codeforces](https://codeforces.com/profile/smartstudsai/)
+<br>
+• 6-star Rated **~(2400+)** on [Codechef](https://www.codechef.com/users/smartstudsai/)
+<br>
+• 4-Dan / Orange Rated **~(2300+)** on [Atcoder](https://atcoder.jp/users/smartstudsai/)
+<br>
+• 6-star Rated **~(2400+)** on [Codechef](https://www.codechef.com/users/smartstudsai/)
 
 <p align="center"> <b>¤ Languages ¤</b> </p>
 <p align="center">
