@@ -22,6 +22,17 @@
 • Teaching Assistant at [University of Warwick](https://warwick.ac.uk/)
 <br>
 • Game Data Miner at [Unite-DB](https://unite-db.com/) and [OP.gg](https://www.op.gg/)
+  
+   <td>
+   
+<p>
+  <img height="26px" src="cp/cp-leetcode.svg"> <img height="26px" src="cp/cp-codeforces.svg"> <br>
+  <img height="26px" src="cp/cp-atcoder.svg"> <img height="26px" src="cp/cp-projecteuler.svg"> <br>
+  <img height="26px" src="cp/cp-kattisOJ.svg"> <img height="26px" src="cp/cp-hackerrank.svg"> <br>
+  <img height="26px" src="cp/cp-codingninjas.svg"> <img height="26px" src="cp/cp-sphereOJ.svg"> <br>
+  <img height="26px" src="cp/cp-geeksforgeeks.svg"> <img height="26px" src="cp/cp-topcoder.svg"> <br>
+  <img height="26px" src="cp/cp-codechef.svg"> <img height="26px" src="cp/cp-binarysearch.svg"> <br>
+</p>    
     
    <td>
     
@@ -34,19 +45,15 @@
 • Guardian Rated **~(2400+)** on [Leetcode](https://leetcode.com/smartstudsai/)
 <br>
 • Competitions Master on [Kaggle](https://www.kaggle.com/smartstudsai/)
+<br>
+• Red Rated **~(2200+)** on [Topcoder]( https://www.topcoder.com/members/smartstudsai/) 
+<br>
 
-<p align="center"> <b>¤ Languages ¤</b> </p>
-<p align="center">
-  <img height="26px" src="lang/lang-rust.svg">
-  <img height="26px" src="lang/lang-javascript.svg">
-  <img height="26px" src="lang/lang-cpp.svg">
-  <img height="26px" src="lang/lang-python.svg">
-  <img height="26px" src="lang/lang-haskell.svg">
-  <img height="26px" src="lang/lang-typescript.svg">
-  <img height="26px" src="lang/lang-golang.svg">
-</p>
+    
    
    </td>
+  
+  
  </tr>
 </table>
 
