@@ -25,15 +25,6 @@
   
    <td>
    
-<p>
-  <img height="26px" src="cp/cp-leetcode.svg"> <img height="26px" src="cp/cp-codeforces.svg"> <br>
-  <img height="26px" src="cp/cp-atcoder.svg"> <img height="26px" src="cp/cp-projecteuler.svg"> <br>
-  <img height="26px" src="cp/cp-kattisOJ.svg"> <img height="26px" src="cp/cp-hackerrank.svg"> <br>
-  <img height="26px" src="cp/cp-codingninjas.svg"> <img height="26px" src="cp/cp-sphereOJ.svg"> <br>
-  <img height="26px" src="cp/cp-geeksforgeeks.svg"> <img height="26px" src="cp/cp-topcoder.svg"> <br>
-  <img height="26px" src="cp/cp-codechef.svg"> <img height="26px" src="cp/cp-binarysearch.svg"> <br>
-</p>    
-    
    <td>
     
 • International Master **~(2300+)** on [Codeforces](https://codeforces.com/profile/smartstudsai/)
@@ -48,9 +39,10 @@
 <br>
 • Red Rated **~(2200+)** on [Topcoder]( https://www.topcoder.com/members/smartstudsai/) 
 <br>
+• **~(2100+)** on [Lichess]( https://www.topcoder.com/members/smartstudsai/) 
+<br>
+• **~(2100+)** on [Chess.com]( https://www.topcoder.com/members/smartstudsai/) 
 
-    
-   
    </td>
   
   
