@@ -53,6 +53,8 @@
     
    <td>
 
+<br>
+    
 • Competitions Master on [Kaggle](https://www.kaggle.com/smartstudsai/)
 
 **Competitive Programming** <br>
