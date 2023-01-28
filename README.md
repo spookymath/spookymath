@@ -22,8 +22,6 @@
 • Teaching Assistant at [University of Warwick](https://warwick.ac.uk/)
 <br>
 • Game Data Miner at [Unite-DB](https://unite-db.com/) and [OP.gg](https://www.op.gg/)
-     
-   <td>
     
    <td>
     
