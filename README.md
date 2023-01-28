@@ -5,9 +5,9 @@
 • Junior Quant at [XTX Markets](https://www.xtxmarkets.com/)            
 
 **Education** <br>
-• Master's Degree - Computer Science at [ETH Zurich](https://ethz.ch/en.html/)
+• Master's - Computer Science at [ETH Zurich](https://ethz.ch/en.html/)
 <br>
-• Bachelor's Degree - Mathematics at [University of Warwick](https://warwick.ac.uk/)
+• Bachelor's - Mathematics at [University of Warwick](https://warwick.ac.uk/)
 
 **Experience** <br>
 • Algorithm Engineer Intern at [Huawei](https://www.huawei.com/en/)
