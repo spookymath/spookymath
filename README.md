@@ -25,6 +25,18 @@
    
    <td>
     
+<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<br>
+<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<br>    
+<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<br>    
+<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<br>
+<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<br>
+<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+    
    <td>
 
 • Competitions Master on [Kaggle](https://www.kaggle.com/smartstudsai/)
