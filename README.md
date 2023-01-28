@@ -1,7 +1,7 @@
 <table border="0" style="width:100%">
  <tr>
     <td>
-
+     
 • Junior Quant at [XTX Markets](https://www.xtxmarkets.com/)            
 
 **Education** <br>
@@ -22,38 +22,8 @@
 • Teaching Assistant at [University of Warwick](https://warwick.ac.uk/)
 <br>
 • Game Data Miner at [Unite-DB](https://unite-db.com/) and [OP.gg](https://www.op.gg/)
-   
+     
    <td>
-    
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-<br>
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-<br>    
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-<br>    
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-<br>
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-<br>
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-    
-   <td>
-    
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-<br>
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-<br>    
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-<br>    
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-<br>
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-<br>
-<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
-    
-   <td>
-
-<br>
     
 • Competitions Master on [Kaggle](https://www.kaggle.com/smartstudsai/)
 
@@ -75,10 +45,8 @@
 <br>
 
 **Other Links** <br>
-<p align="center">
-<img height="25px" src="medium.svg"> <img height="25px" src="stackoverflow"> <img height="25px" src="hackerrank"> <img height="25px" src="transcripts"> <img height="25px" src="website"> <img height="25px" src="cv"> <img height="25px" src="hackerearth"> <img height="25px" src="stackexchange"> <img height="25px" src="youtube.svg"> 
- </p>
- 
+Twitter • Youtube • Website • Medium • Discord 
+    
   </td>
   
   
