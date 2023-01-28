@@ -25,17 +25,31 @@
    
    <td>
     
-<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
 <br>
-<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
 <br>    
-<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
 <br>    
-<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
 <br>
-<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
 <br>
-<img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+    
+   <td>
+    
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<br>
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<br>    
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<br>    
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<br>
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
+<br>
+<img height="50px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
     
    <td>
 
